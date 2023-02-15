@@ -1,2 +1,7 @@
 # CS-3250
-Repo containing work from Software Development
+
+This repo contains all the projects from CS-3250 also know as Software Development at MSU Denver
+
+## Here is a sub heading
+
+**Bold**
