@@ -5,3 +5,5 @@ This repo contains all the projects from CS-3250 also know as Software Developme
 ## Here is a sub heading
 
 **Bold**
+
+_I am Italic Text_
